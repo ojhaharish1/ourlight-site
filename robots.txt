@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ourlight.app/sitemap.xml
